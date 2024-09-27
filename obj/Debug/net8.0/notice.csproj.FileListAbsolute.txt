@@ -482,3 +482,4 @@ C:\Users\weazz\Desktop\notice-webapi\obj\Debug\net8.0\notice.genruntimeconfig.ca
 C:\Users\weazz\Desktop\notice-webapi\obj\Debug\net8.0\ref\notice.dll
 C:\Users\weazz\Desktop\notice\obj\Debug\net8.0\notice.sourcelink.json
 C:\Users\weazz\Desktop\notice-webapi\bin\Debug\net8.0\Microsoft.Bcl.TimeProvider.dll
+C:\Users\weazz\Desktop\notice-webapi\obj\Debug\net8.0\notice.sourcelink.json
